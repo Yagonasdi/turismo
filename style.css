@@ -1,0 +1,22 @@
+body{
+    background-image: url(assets/praia.jpg);
+    background-size: cover;
+}
+
+#fundo{
+    box-sizing: border-box;
+    width: 543px;
+    height: auto;
+    padding: 38px;
+    background-color: #00bfff73;
+    border-radius: 32px;
+    margin: 565px auto;
+}
+
+h1{
+    font-size: 62px;
+}
+
+ul{
+    font-size: 32px;
+}
