@@ -11,12 +11,20 @@ body{
     background-color: #00bfff73;
     border-radius: 32px;
     margin: 565px auto;
+    font-family: "Roboto Mono", serif;
 }
 
 h1{
     font-size: 62px;
+    line-height: 110%;
+    text-decoration: underline;
 }
 
 ul{
+    padding-top: 15px;
     font-size: 32px;
+}
+
+a{
+    text-decoration: none;
 }
